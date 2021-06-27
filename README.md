@@ -6,7 +6,7 @@
 - 👀 I’m interested in ... C programming
 - 🌱 I’m currently learning ... C programming and python
 - 💞️ I’m looking to collaborate on ... C
-- 📫 How to reach me ...[instagram username:] dushyantkalodia
+- 📫 How to reach me ...[email id:] dushyantkalodia@gmail.com
 
 
 <!---
