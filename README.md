@@ -3,9 +3,9 @@
 
 
 - 👋 Hi, I’m @Dushyant Kalodia
-- 👀 I’m interested in ... C programming
-- 🌱 I’m currently learning ... C programming and python
-- 💞️ I’m looking to collaborate on ... C
+- 👀 I’m interested in ... java programming
+- 🌱 I’m currently learning ... java programming 
+- 💞️ I’m looking to collaborate on ... java
 - 📫 How to reach me ...[email id:] dushyantkalodia@gmail.com
 
 
